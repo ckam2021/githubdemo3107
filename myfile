@@ -1,4 +1,5 @@
 Hello world today is 31072022
+<<<<<<< HEAD
 1011pm
 
 something new here
@@ -6,3 +7,11 @@ something new here
 
 To add something new
 10:24pm
+||||||| a2b03c8 (2nd commit)
+1011pm
+
+something new here
+1022pm
+=======
+1011pm
+>>>>>>> parent of a2b03c8 (2nd commit)
